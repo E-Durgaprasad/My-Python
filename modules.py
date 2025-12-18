@@ -1,3 +1,5 @@
+#Demo program
+
 class Student:
     school_name="cvcorp"
     def __init__(self,name ,marks):
