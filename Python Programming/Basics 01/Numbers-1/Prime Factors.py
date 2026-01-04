@@ -7,7 +7,7 @@ Output        :- Print All the Prime Factors of a Given Number.
 Example:
 
 Input:18
-Output 2 3
+Output 2 3.
 """
 def prime(n):
     if n<=1:

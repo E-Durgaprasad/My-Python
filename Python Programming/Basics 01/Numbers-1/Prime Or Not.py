@@ -2,7 +2,7 @@
 Write a Program to Print the Given Number is Prime or not without using count?
 Constraints:
 Input          :- First Line of Input Consists of One Integer Value.
-Output        :- Print the Prime Number or Not a Prime Number.
+Output        :- Print the Prime Number or Not a Prime Number..
 
 Example:
 Input 1  :    83

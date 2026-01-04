@@ -3,7 +3,7 @@ Write a program to find the Sum of all Alternative Prime Numbers between The Giv
 Constraints:
 Input          :- First Line of Input Consists of One Integer Value ( Minimum Value ) .
             Second Line of Input Consists of One Integer Value ( Maximum Value ) .
-Output        :- Print Sum of All Alternate Prime Numbers Between the Given Values.
+Output        :- Print Sum of All Alternate Prime Numbers Between the Given Values..
 Example:
 Input 1  :25
           100

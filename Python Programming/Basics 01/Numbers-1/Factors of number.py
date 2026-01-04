@@ -3,7 +3,7 @@ Write a program to print all factors of the Given Number.
 Constraints:
 Input          :- First Line of Input Consists of One Integer Value.
 Output        :- Print All the Factors of the Given Number.
-Constraints  :- Given Input Must be Greater than Zero or else Print "Invalid Input".
+Constraints  :- Given Input Must be Greater than Zero or else Print "Invalid Input"..
 
 Example:
 Input 1  :    18

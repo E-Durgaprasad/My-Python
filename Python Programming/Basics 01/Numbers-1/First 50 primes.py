@@ -1,7 +1,7 @@
 """Write a Program to print the first 50 prime Numbers without using Factors count?
 Constraints:
 Input          :- First Line of Input Consists of One Integer Value ( N ) .
-Output        :- Print First N no of Prime Numbers.
+Output        :- Print First N no of Prime Numbers..
 
 Example:
 Input 1  :    16

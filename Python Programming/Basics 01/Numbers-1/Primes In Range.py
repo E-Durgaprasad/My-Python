@@ -4,7 +4,7 @@ Write a program to print All the Prime Numbers in the Given Range.
 Constraints:
 Input :- First Line of Input Consists of One Integer Value ( Minimum Value ) .
         Second Line of Input Consists of One Integer Value ( Maximum Value ) .
-Output :- Print All the Prime Numbers in the Given Range.
+Output :- Print All the Prime Numbers in the Given Range..
 
 Example:
 
